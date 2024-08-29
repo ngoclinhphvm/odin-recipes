@@ -1,0 +1,23 @@
+* {
+    background-color: lightgoldenrodyellow; 
+    font-family: monospace;
+    font-size: 15px;  
+}
+
+h1, h2 {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+li {
+    font-family: monospace;
+}
+
