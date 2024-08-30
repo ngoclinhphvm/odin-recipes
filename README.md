@@ -1,6 +1,6 @@
 # Odin Recipes Website
-This is the first project for my learning of Web Development with the help of The Odin Project.
+This is the first project in my Web Development learning process, guided by The Odin Project.
 
-This is a basic recipe website to build up my HTML chops, so it won't look much pretty.
+It is a basic recipe website to enhance my HTML skills, so it might not be the most visually appealing.
 
-All the images and recipes are taken from [Allrecipes](https://www.allrecipes.com)
+All the images and recipes are sourced from [Allrecipes](https://www.allrecipes.com). I plan to include individual sources for each recipe soon.
